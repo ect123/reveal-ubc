@@ -7,4 +7,4 @@ The UBC stylesheet includes:
 - UBC [common look and feel colours](https://clf.ubc.ca/design-specifications/#colours) for text
 - a <code>div</code> class <code>"image-slide"</code> for using text on top of beautiful photos of UBC.
 
-See the demo here: See the demo here: [https://evan.town/reveal-ubc/](https://evan.town/reveal-ubc/)
+See the demo here: [https://evan.town/reveal-ubc/](https://evan.town/reveal-ubc/)
