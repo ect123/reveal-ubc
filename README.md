@@ -8,4 +8,4 @@ The UBC stylesheet includes:
 - a <code>div</code> class <code>"image-slide"</code> for using text on top of beautiful photos of UBC.
 - a new folder <code>img</code> with two large photos of campus from the [UBC Brand and Marketing Flickr](https://www.flickr.com/photos/134760388@N08/) account
 
-See the demo here: [https://evan.town/reveal-ubc/](https://evan.town/reveal-ubc/)
+See the demo here: [https://ubc-library-rc.github.io/reveal-ubc/](https://ubc-library-rc.github.io/reveal-ubc/)
